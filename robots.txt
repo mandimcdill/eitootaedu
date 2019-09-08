@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eetuekaema.aisallc.com/sitemap.xml
